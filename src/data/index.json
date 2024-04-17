@@ -1,0 +1,86 @@
+{
+  "skills": [
+    {
+      "id": "1",
+      "src": "./img/mongo-db.png",
+      "title": "Mongo-DB",
+      "description": "MongoDB (Database), mainly used for preparing document database."
+    },
+    {
+      "id": "2",
+      "src": "./img/express.png",
+      "title": "Express",
+      "description": "Express, mainly used for developing Node.js web framework."
+    },
+    {
+      "id": "3",
+      "src": "./img/react.png",
+      "title": "React",
+      "description": "React, mainly used for developing a client-side JavaScript framework."
+    },
+    {
+      "id": "4",
+      "src": "./img/node.png",
+      "title": "Node",
+      "description": "Node, mainly used for developing the premier JavaScript web server."
+    }
+  ],
+  "portfolio": [
+    {
+      "id": "1",
+      "src": "./img/placeholder-image-11.png",
+      "title": "Amazon-Clone App",
+      "description": "Amazon Clone App is meticulously crafted replica of the beloved e-commerce giant, built entirely using HTML and CSS.",
+      "link": "https://github.com/adityapotode/Amazon-Clone.github.io"
+    },
+    {
+      "id": "2",
+      "src": "./img/placeholder-image-12.png",
+      "title": "Weather App",
+      "description": "A stunning weather app crafted using the HTML, CSS, and JavaScript. Weather App brings you real-time weather updates with just a click.",
+      "link": "https://github.com/adityapotode/Weather_App.github.io"
+    },
+    {
+      "id": "3",
+      "src": "./img/placeholder-image-13.png",
+      "title": "E-Gadgets Platform",
+      "description": "A stunning e-commerce hub for tech aficionados, meticulously crafted with React. Discover the latest gadgets effortlessly and shop with style.",
+      "link": "https://github.com/adityapotode/E-Commerce_Platform.github.io"
+    }
+  ],
+  "education": [
+    {
+      "id": "1",
+      "count": "5",
+      "src": "./img/m.tech.jpg",
+      "college": "Laxminarayan Institute of Technology Nagpur",
+      "degree": "M.Tech",
+      "course": "Chemical Engineering"
+      
+    },
+    {
+      "id": "2",
+      "count": "5",
+      "src": "./img/b.tech.jpg",
+      "college": "Sant Gadge Baba Amravati University Amravati",
+      "degree": "B.Tech",
+      "course": "Chemical Technology"
+    },
+    {
+      "id": "3",
+      "count": "5",
+      "src": "./img/12th.jpg",
+      "college": "Dr. Bower Apostolic Jr. College Nagpur",
+      "degree": "12th",
+      "course": "Science"
+    },
+    {
+      "id": "4",
+      "count": "5",
+      "src": "./img/10th.jpg",
+      "college": "Mount Carmel Convent School Katol",
+      "degree": "10th",
+      "course": "-"
+    }
+  ]
+}
